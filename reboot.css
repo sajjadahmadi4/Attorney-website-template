@@ -1,0 +1,30 @@
+.btn-primary,
+.btn-primary:visited,
+.btn-primary:focus{
+    background: #253fd3;
+    border-color: #3a4aa8;
+}
+
+.btn-primary:active:focus,
+.btn-primary:focus{
+    box-shadow: 0 0 0 .25rem rgba(199, 49, 253, 0.5);
+}
+
+.text-primary{
+    color: #6986df !important;
+}
+
+.bg-primary{
+    background-color: #edebfa !important;
+}
+
+.border-primary{
+    border: 2px solid;
+    border-color: #6986df !important;
+}
+
+.alert-primary{
+    color: #5700c1;
+    background-color: #decfff;
+    border-color: #d5abff;
+}
